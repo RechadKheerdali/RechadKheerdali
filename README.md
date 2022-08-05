@@ -8,7 +8,7 @@ Specialised in JavaScript / React / TypeScript / Node.js
 
 Portfolio site: https://ilshaad.com/ 
 
-LinkedIn profile: linkedin.com/in/ilshaad/ 
+LinkedIn profile: https://www.linkedin.com/in/ilshaad/ 
 
 
 <!---
