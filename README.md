@@ -1,8 +1,15 @@
-- 👋 Hi, I’m ilshaad. My username RechadKheerdali is my late father name
-- 👀 I’m interested in frontend development and devops engineering
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on with devops with AWS
-- 📫 How to reach me < PENDING >
+Hello there.
+
+My name is Ilshaad, and I live in London, UK.
+
+I am a Frontend / Full stack developer since 2018.
+
+Specialised in JavaScript / React / TypeScript / Node.js
+
+Portfolio site: https://ilshaad.com/ 
+
+LinkedIn profile: linkedin.com/in/ilshaad/ 
+
 
 <!---
 RechadKheerdali/RechadKheerdali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
